@@ -1,100 +1,140 @@
-# Alexandre Messein
+Alexandre Messein
 
-🎓 Étudiant en **cybersécurité & développement**  
-🎯 Objectif : **Ingénieur en cyberdéfense / cybersécurité offensive & défensive**  
-📍 Paris, France  
-💻 Passionné par le **développement web**, la **sécurité**, le **DevOps** et l’**automatisation**
+🎓 Étudiant en cybersécurité & développement
+🎯 Objectif : Ingénieur en cyberdéfense / cybersécurité offensive & défensive
+📍 Paris, France
+💻 Intérêts : développement web, sécurité, DevOps, automatisation
 
----
+🧠 À propos de moi
 
-## 🧠 À propos de moi
-
-Je suis étudiant en informatique avec une spécialisation en **cybersécurité**, actuellement en formation supérieure.  
-Je développe régulièrement des **projets web**, des **applications back-end**, ainsi que des **projets techniques (DevOps, tests, scripts)** afin de renforcer mes compétences pratiques.
+Je suis étudiant en informatique avec une spécialisation en cybersécurité, actuellement en formation supérieure.
+Je développe régulièrement des applications web, des projets back-end, ainsi que des projets techniques (DevOps, tests, scripts) afin de consolider mes compétences pratiques et professionnelles.
 
 Mon GitHub reflète :
-- mon **apprentissage continu**
-- mes **projets académiques et personnels**
-- ma **progression technique**
 
----
+mon apprentissage continu
 
-## 🛠️ Technologies & compétences
+mes projets académiques et personnels
 
-### 🔹 Développement
-- PHP / Laravel  
-- HTML / CSS / JavaScript  
-- TailwindCSS  
-- MVC / CRUD  
-- Bases de données (MySQL, SQLite)
+ma progression technique en développement et cybersécurité
 
-### 🔹 Tests & DevOps
-- Playwright
-- Tests automatisés
-- Git / GitHub
-- Bases CI/CD
+🛠️ Technologies & compétences
+🔹 Développement
 
-### 🔹 Cybersécurité (en apprentissage continu)
-- Sécurité web
-- Environnements Linux
-- Réseaux
-- Ethical hacking (labs, projets pédagogiques)
+PHP / Laravel
 
----
+HTML / CSS / JavaScript
 
-## ⭐ Projets principaux (à voir en priorité)
+TailwindCSS
 
-### 🔸 projetlaravel2
-📌 Application web développée avec **Laravel**  
-🔧 MVC, routes, vues Blade, base de données  
-👉 Objectif : démontrer la maîtrise de Laravel
+Architecture MVC / CRUD
 
-### 🔸 projetlaravelmesseinalexandre
-📌 Deuxième projet Laravel plus structuré  
-🔧 Back-end PHP, organisation propre du framework
+Bases de données : MySQL, SQLite
 
-### 🔸 projetdevopsmesseinalexandre
-📌 Projet orienté **DevOps**  
-🔧 Découverte des outils, structuration, automatisation
+🔹 Tests & DevOps
 
-### 🔸 healdev-playwright-test
-📌 Projet de **tests automatisés**  
-🔧 Playwright, scénarios de test, validation fonctionnelle
+Playwright
 
-### 🔸 profil
-📌 Projet web de présentation personnelle  
-🔧 PHP / Web
+Tests automatisés
 
----
+Git / GitHub
 
-## 📦 Autres projets
+Bases CI/CD
 
-- **sitewebprojet** – Site web HTML/CSS  
-- **projetsiteweb** – Projet web statique  
-- **projetwave** – Projet expérimental  
-- **entra-nement** – Entraînement en C++  
-- **p-che** – Dépôt pédagogique  
-- **alex** – Projet personnel  
-- **pomme / poire** – Dépôts d’expérimentation  
+🔹 Cybersécurité (en apprentissage)
 
-> Ces projets reflètent mon apprentissage progressif et mes tests techniques.
+Sécurité web
 
----
+Environnements Linux
 
-## 📈 Objectifs actuels
+Réseaux
 
-- Monter en compétence en **cybersécurité**
-- Améliorer la **qualité de mes projets (README, démo, tests)**
-- Déployer des applications en ligne
-- Préparer une **alternance / carrière en cyberdéfense**
+Ethical hacking (labs et projets pédagogiques)
 
----
+🔧 À propos de ce projet — projetlaravel2
 
-## 📫 Me contacter
+Ce dépôt correspond à une application web développée avec Laravel, réalisée dans un cadre pédagogique et personnel afin de démontrer ma compréhension du framework et de l’architecture MVC.
 
-📧 Email : alexandre.messein@gmail.com  
-🔗 LinkedIn : https://www.linkedin.com/in/alexandre-messein-45ba97286/  
+🎯 Objectifs du projet
 
----
+Comprendre l’architecture MVC de Laravel
 
-⭐ N’hésitez pas à explorer mes repositories !
+Mettre en place des routes, contrôleurs et vues Blade
+
+Manipuler une base de données avec Eloquent
+
+Structurer un projet Laravel de manière professionnelle
+
+⚙️ Fonctionnalités
+
+Pages dynamiques avec Blade
+
+Routage Laravel
+
+Connexion à une base de données
+
+Structure MVC respectée
+
+Organisation claire du projet
+
+🚀 Lancer le projet en local
+
+composer install
+cp .env.example .env
+php artisan key:generate
+php artisan migrate
+php artisan serve
+
+⭐ Autres projets principaux :
+
+🔸 projetlaravelmesseinalexandre
+
+Deuxième projet Laravel plus structuré, approfondissant l’organisation back-end et la logique applicative.
+
+🔸 projetdevopsmesseinalexandre
+
+Projet orienté DevOps, axé sur la structuration, l’automatisation et les bonnes pratiques.
+
+🔸 healdev-playwright-test
+
+Projet de tests automatisés avec Playwright (scénarios, validation fonctionnelle).
+
+🔸 profil
+
+Projet web de présentation personnelle en PHP.
+
+📦 Autres projets
+
+sitewebprojet – Site web HTML/CSS
+
+projetsiteweb – Projet web statique
+
+projetwave – Projet expérimental
+
+entra-nement – Entraînement en C++
+
+p-che – Dépôt pédagogique
+
+alex – Projet personnel
+
+pomme / poire – Dépôts d’expérimentation
+
+Ces projets reflètent mon apprentissage progressif et mes expérimentations techniques.
+
+📈 Objectifs actuels
+
+Renforcer mes compétences en cybersécurité
+
+Améliorer la qualité et la documentation de mes projets
+
+Déployer des applications en ligne
+
+Préparer une alternance / carrière en cyberdéfense
+
+📫 Me contacter
+
+📧 Email : alexandre.messein@gmail.com
+
+🔗 LinkedIn : https://www.linkedin.com/in/alexandre-messein-45ba97286/
+
+⭐ N’hésitez pas à explorer mes repositories.
