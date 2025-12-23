@@ -49,7 +49,7 @@ Environnements Linux
 
 Réseaux
 
-Ethical hacking (labs et projets pédagogiques)
+Ethical hacking 
 
 🔧 À propos de ce projet — projetlaravel2
 
