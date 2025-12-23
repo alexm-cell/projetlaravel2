@@ -1,59 +1,100 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# 👋 Alexandre Messein
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+🎓 Étudiant en **cybersécurité & développement**  
+🎯 Objectif : **Ingénieur en cyberdéfense / cybersécurité offensive & défensive**  
+📍 Paris, France  
+💻 Passionné par le **développement web**, la **sécurité**, le **DevOps** et l’**automatisation**
 
-## About Laravel
+---
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## 🧠 À propos de moi
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Je suis étudiant en informatique avec une spécialisation en **cybersécurité**, actuellement en formation supérieure.  
+Je développe régulièrement des **projets web**, des **applications back-end**, ainsi que des **projets techniques (DevOps, tests, scripts)** afin de renforcer mes compétences pratiques.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Mon GitHub reflète :
+- mon **apprentissage continu**
+- mes **projets académiques et personnels**
+- ma **progression technique**
 
-## Learning Laravel
+---
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
+## 🛠️ Technologies & compétences
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+### 🔹 Développement
+- PHP / Laravel  
+- HTML / CSS / JavaScript  
+- TailwindCSS  
+- MVC / CRUD  
+- Bases de données (MySQL, SQLite)
 
-## Laravel Sponsors
+### 🔹 Tests & DevOps
+- Playwright
+- Tests automatisés
+- Git / GitHub
+- Bases CI/CD
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+### 🔹 Cybersécurité (en apprentissage continu)
+- Sécurité web
+- Environnements Linux
+- Réseaux
+- Ethical hacking (labs, projets pédagogiques)
 
-### Premium Partners
+---
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+## ⭐ Projets principaux (à voir en priorité)
 
-## Contributing
+### 🔸 projetlaravel2
+📌 Application web développée avec **Laravel**  
+🔧 MVC, routes, vues Blade, base de données  
+👉 Objectif : démontrer la maîtrise de Laravel
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+### 🔸 projetlaravelmesseinalexandre
+📌 Deuxième projet Laravel plus structuré  
+🔧 Back-end PHP, organisation propre du framework
 
-## Code of Conduct
+### 🔸 projetdevopsmesseinalexandre
+📌 Projet orienté **DevOps**  
+🔧 Découverte des outils, structuration, automatisation
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+### 🔸 healdev-playwright-test
+📌 Projet de **tests automatisés**  
+🔧 Playwright, scénarios de test, validation fonctionnelle
 
-## Security Vulnerabilities
+### 🔸 profil
+📌 Projet web de présentation personnelle  
+🔧 PHP / Web
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+---
 
-## License
+## 📦 Autres projets
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+- **sitewebprojet** – Site web HTML/CSS  
+- **projetsiteweb** – Projet web statique  
+- **projetwave** – Projet expérimental  
+- **entra-nement** – Entraînement en C++  
+- **p-che** – Dépôt pédagogique  
+- **alex** – Projet personnel  
+- **pomme / poire** – Dépôts d’expérimentation  
+
+> Ces projets reflètent mon apprentissage progressif et mes tests techniques.
+
+---
+
+## 📈 Objectifs actuels
+
+- Monter en compétence en **cybersécurité**
+- Améliorer la **qualité de mes projets (README, démo, tests)**
+- Déployer des applications en ligne
+- Préparer une **alternance / carrière en cyberdéfense**
+
+---
+
+## 📫 Me contacter
+
+📧 Email : alexandre.messein@gmail.com  
+🔗 LinkedIn : https://www.linkedin.com/in/alexandre-messein-45ba97286/  
+
+---
+
+⭐ N’hésitez pas à explorer mes repositories !
