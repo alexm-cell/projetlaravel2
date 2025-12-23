@@ -1,4 +1,4 @@
-# 👋 Alexandre Messein
+# Alexandre Messein
 
 🎓 Étudiant en **cybersécurité & développement**  
 🎯 Objectif : **Ingénieur en cyberdéfense / cybersécurité offensive & défensive**  
